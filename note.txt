@@ -1,0 +1,3 @@
+git status : xem trạng thái của dự án (có thay đổi gì hay không, nhánh đang ở hiện tại, commit )
+git add . : được sử dụng để thêm thư mục hoặc file vào vùng chờ
+link: https://200lab.io/blog/git-co-ban/#2-git-add-l%C3%A0-g%C3%AC
